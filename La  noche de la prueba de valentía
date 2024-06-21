@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>La Noche de la Prueba de Valentía</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <img
+  <p>Era una noche de otoño, fría y ventosa, cuando un grupo de cinco adolescentes decidió
+  poner a prueba su valentía explorando la legendaria Casa de los Fantasmas de Casavalle.
+  Habían escuchado historias aterradoras sobre el lugar durante toda su vida, y en un acto de
+  bravura juvenil, planearon pasar la noche allí.</p>
+  <p>Armados con linternas y una cámara para documentar su aventura, los jóvenes llegaron a la
+  casa alrededor de las 10 de la noche. La estructura, oscura y silenciosa, se erguía como un
+  gigante sombrío contra el cielo nocturno. La puerta principal estaba ligeramente abierta,
+  chirriando al empujarla, y el interior parecía absorber la luz de sus linternas, como si las
+  sombras fueran más densas de lo normal.</p>
+  <p>Se establecieron en la sala principal, un espacio amplio con muebles cubiertos de polvo y
+  telarañas colgantes. Trataron de mantener el ánimo en alto contando historias y riendo,
+  aunque la tensión era palpable. Una de las chicas, Lucía, propuso explorar el piso superior,
+  a lo que todos, aunque con cierta reticencia, accedieron.</p>
+  <p>Subieron las escaleras con cautela. En el segundo piso, encontraron habitaciones vacías,
+  algunas con muebles viejos y otros artículos abandonados. Uno de los chicos, Martín, que
+  lideraba el grupo, sugirió dividirse para cubrir más terreno, pero los demás insistieron en
+  permanecer juntos.</p>
+  <p>Subieron las escaleras con cautela. En el segundo piso, encontraron habitaciones vacías,
+  algunas con muebles viejos y otros artículos abandonados. Uno de los chicos, Martín, que
+  lideraba el grupo, sugirió dividirse para cubrir más terreno, pero los demás insistieron en
+  permanecer juntos.</p>
+  <p>Alrededor de la medianoche, estando todos en una habitación que parecía haber sido un
+  estudio, comenzaron a escuchar pasos lentos y pesados provenientes del pasillo. Las
+  linternas comenzaron a parpadear, y de repente, en el umbral de la puerta, apareció la
+  figura de un hombre con ropas desgarradas y sucias. Tenía una expresión triste y ausente.
+  Los adolescentes quedaron paralizados por el miedo, sin poder moverse ni gritar.</p>
+  <p>>La figura se desvaneció lentamente, como si se disolviera en el aire. Recuperando el
+  control, los jóvenes intentaron salir corriendo de la casa, pero la puerta principal, que habían
+  dejado entreabierta, ahora estaba cerrada y no podían abrirla.</p>
+  <p>Presa del pánico, Martín rompió una ventana con una silla, y uno a uno, los adolescentes
+  escaparon hacia el jardín delantero. Al girar la cabeza hacia la casa, vieron en la ventana
+  del segundo piso la figura de una mujer vestida de blanco, con una expresión de profunda
+  tristeza en su rostro. Esta visión los aterrorizó aún más, y corrieron sin mirar atrás hasta
+  llegar a la seguridad de sus hogares.</p>
+  <p>Los jóvenes quedaron profundamente afectados por la experiencia. Durante semanas,
+  algunos de ellos tuvieron pesadillas y evitaban hablar del tema. Los padres, al escuchar sus
+  relatos, quedaron preocupados y algunos incluso consultaron a un sacerdote para bendecir
+  la casa y alejar cualquier presencia maligna.</p>
+  <p>Con el tiempo, los adolescentes continuaron con sus vidas, pero la historia de esa noche en la Casa de los Fantasmas de Casavalle se convirtió en una advertencia para otros jóvenes
+  del barrio. La casa permaneció deshabitada y, aunque ocasionalmente alguien se atrevía a
+  acercarse, nadie más intentó pasar la noche allí.</p>
+  <script src="script.js"></script>
+</body>
+
+</html>
